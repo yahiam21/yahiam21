@@ -12,5 +12,5 @@
 - 💬 Ask me about what ever you want to know about me ?
 - 📫 How to reach me: you can reach me on facebook,x,instgram and E-mail.
 - 😄 Hobbies: traveling,swimming,cooking and camping 
-- ⚡ 
+
 
