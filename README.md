@@ -1,16 +1,16 @@
-### Hi there 👋
+### _Hi there👋_
 
 
-**yahiam21/yahiam21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**yahiam21/yahiam21**  ✨ `README.md`.
 
-Here are some ideas to get you started:
+## I am here : 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on something,it is so important for me 
+- 🌱 I’m currently learning new things that will lead me to achieve my dream, I learn online and from github.
+- 👯 I’m looking to have friends rom over all world.
+- 🤔 I’m looking for help with knowing well the field of programming so that I can expand my knowledge on it.
+- 💬 Ask me about what ever you want to know about me ?
+- 📫 How to reach me: you can reach me on facebook,x,instgram and E-mail.
+- 😄 Hobbies: traveling,swimming,cooking and camping 
+- ⚡ 
 
